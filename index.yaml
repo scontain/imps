@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  imagepullsecrets:
+  - apiVersion: v1
+    appVersion: 0.3.13
+    created: "2024-10-03T18:27:26.896921009Z"
+    description: Dynamically manage pull secrets for images
+    digest: 9ca9769ea614abded48aec5acb1e0043b27feb2ccb4700728f43651ef73509de
+    home: https://banzaicloud.com
+    maintainers:
+    - email: info@banzaicloud.com
+      name: Banzai Cloud
+    name: imagepullsecrets
+    sources:
+    - https://github.com/banzaicloud/backyards
+    urls:
+    - packages/imagepullsecrets-0.3.13.tgz
+    version: 0.3.13
+generated: "2024-10-03T18:27:26.895690994Z"
